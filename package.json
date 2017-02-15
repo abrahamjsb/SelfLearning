@@ -1,0 +1,25 @@
+{
+  "name": "ponenciaorientech",
+  "version": "1.0.0",
+  "description": "ponencia motivacional para nuevos developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1tag0ras/ponenciaOrienTech.git"
+  },
+  "keywords": [
+    "ponencia",
+    "dev",
+    "developers",
+    "motivational"
+  ],
+  "author": "franklin lugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p1tag0ras/ponenciaOrienTech/issues"
+  },
+  "homepage": "https://github.com/p1tag0ras/ponenciaOrienTech#readme"
+}
