@@ -1,0 +1,26 @@
+{
+  "name": "ponenciaorientech",
+  "description": "ponencia motivacional para nuevos developers",
+  "main": "index.js",
+  "authors": [
+    "franklin lugo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ponencia",
+    "dev",
+    "developers",
+    "motivational"
+  ],
+  "homepage": "https://github.com/p1tag0ras/ponenciaOrienTech",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.4.1"
+  }
+}
