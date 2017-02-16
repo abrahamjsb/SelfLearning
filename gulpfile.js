@@ -11,7 +11,7 @@ var config = {
 }
 
 gulp.task('serve', function(){
-	browsersync.init({
+	browserSync.init({
 		server: './'
 	});
 	gulp.watch(config.browsersync.watch).on('change', browserSync.reload);
