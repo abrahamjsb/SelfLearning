@@ -8,15 +8,15 @@ Charla de bienvenida dirigida a distintos perfiles del campo IT.
 * gulp
 * browser-sync
 
-Traer dependencias del proyecto
+### Traer dependencias del proyecto
 
 	npm install
 
-Traer dependencias front-end
+### Traer dependencias front-end
 
 	bower install
 
-Ejecutar servidor web local y ver los cambios en tiempo real
+### Ejecutar servidor web local y ver los cambios en tiempo real
 
 	gulp
 
