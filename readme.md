@@ -20,4 +20,4 @@ Charla de bienvenida dirigida a distintos perfiles del campo IT.
 
 	gulp
 
-Realizado por [p1tag0ras](http://github.com/p1tag0ras) y [abrahamjsb](http://github.com/abrahamjsb) usando ![reveal.js](https://github.com/hakimel/reveal.js/)
+Realizado por [franklinlugo](http://github.com/franklinlugo) y [abrahamjsb](http://github.com/abrahamjsb) usando ![reveal.js](https://github.com/hakimel/reveal.js/)
