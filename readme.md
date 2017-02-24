@@ -1,7 +1,10 @@
-# OrienteTech
-Charla de bienvenida dirigida a distintos perfiles del campo IT.
+# Self Learning: Sé autodidacta
 
-## Dependencias
+Charla de bienvenida dirigida a distintos perfiles del campo IT con la finalidad de mostrarles el camino a seguir a los usuarios novatos.
+
+[Contenido](https://github.com/franklinlugo/ponenciaSelfLearning/wiki/Contenido)
+
+## Dependencias de la presentación
 * nodejs
 * npm
 * bower
