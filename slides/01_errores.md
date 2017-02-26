@@ -1,0 +1,1 @@
+## Principales errores cometidos

@@ -9,14 +9,60 @@
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section>first slide</section>
-			<section>second slide</section>
+			<section data-markdown="slides/00_cover.md"  
+					data-separator="^\n\n\n"  
+					data-separator-vertical="^\n\n"  
+					data-separator-notes="^Note:"  
+					data-charset="UTF-8">
+			</section>
+			<section data-markdown="slides/01_errores.md"  
+					data-separator="^\n\n\n"  
+					data-separator-vertical="^\n\n"  
+					data-separator-notes="^Note:"  
+					data-charset="UTF-8">
+			</section>
+			<section data-markdown="slides/02_proyectos.md"  
+					data-separator="^\n\n\n"  
+					data-separator-vertical="^\n\n"  
+					data-separator-notes="^Note:"  
+					data-charset="UTF-8">
+			</section>
+			<section data-markdown="slides/03_empezar.md"  
+					data-separator="^\n\n\n"  
+					data-separator-vertical="^\n\n"  
+					data-separator-notes="^Note:"  
+					data-charset="UTF-8">
+			</section>
+			<section data-markdown="slides/04_recomendaciones.md"  
+					data-separator="^\n\n\n"  
+					data-separator-vertical="^\n\n"  
+					data-separator-notes="^Note:"  
+					data-charset="UTF-8">
+			</section>
+			<section data-markdown="slides/05_recursos.md"  
+					data-separator="^\n\n\n"  
+					data-separator-vertical="^\n\n"  
+					data-separator-notes="^Note:"  
+					data-charset="UTF-8">
+			</section>
 		</div>
 	</div>
 	
+	<script src="bower_components/reveal.js/lib/js/head.min.js"></script>
 	<script src="bower_components/reveal.js/js/reveal.js"></script>
+
 	<script>
-		Reveal.initialize();
+		// More info https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			history: true,
+			// More info https://github.com/hakimel/reveal.js#dependencies
+			dependencies: [
+				{ src: 'bower_components/reveal.js/plugin/markdown/marked.js' },
+				{ src: 'bower_components/reveal.js/plugin/markdown/markdown.js' },
+				{ src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
+				{ src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+			]
+		});
 	</script>
 </body>
 </html>
