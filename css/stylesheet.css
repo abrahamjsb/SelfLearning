@@ -6,3 +6,6 @@
 	transform: translateX(-50%);
 	font-size: 18px !important;
 }
+.img-size img{
+	width: 600px;
+}
