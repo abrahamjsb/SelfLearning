@@ -5,37 +5,17 @@
 	Dedicación + disciplina + organización = éxito
 
 
-#### HTML + CSS 
-<p class="img-size">
-	![img](images/htmlcss.png)
-</p>
+#### Elige una carrera 
 
 
-#### JavaScript
-<p class="img-size">
-	![img](images/javascript.png)
-</p>
+#### Carreras tecnológicas con maás auge para el 2017
 
 
-#### Características de JavaScript
-* Multiparadigma
-* Client-side
-* Server-side (nodejs)
+#### Inicia un proyecto
+   *Ver Proyectos tops para inspirarse
 
 
-#### Perfiles más demandados
-* Programadores
-* DevOps
-* Hardware Libre (IoT)
+#### Toma mil horas para hacerte profesional en algo
 
 
-#### LinkedIn Tops skills
-<p class="img-size">
-	![img](images/linkedints.png)
-</p>
-
-
-#### Ofertas mas demandadas en el 2017
-<p class="img-size">
-	![img](images/demandas2017.png)
-</p>
+#### Unirse a un equipo con más experiencias y habilidades
