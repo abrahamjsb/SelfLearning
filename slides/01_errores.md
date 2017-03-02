@@ -13,6 +13,12 @@
 </p>
 
 
+#### Dejar de ser constante
+<p class="img-size">
+	![img](images/un-ganador.jpg)
+</p>
+
+
 #### Aprender y luego hacer
 
 

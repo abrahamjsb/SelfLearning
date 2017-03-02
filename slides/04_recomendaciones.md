@@ -36,7 +36,7 @@
 * Arquitectura e ingeniería de software
 
 
-#### Programar en más de lo que dan en la universidad
+#### Programar es más de lo que dan en la universidad
 
 
 #### Sé feliz en todo el proceso
