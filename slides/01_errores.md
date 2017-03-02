@@ -19,6 +19,8 @@
 #### Síndrome del impostor
 Los miedos y dudas siempre van a estar al nivel que te encuentres.
 
-<p class="img-size">
+<a class="img-size" href="https://twitter.com/dhh/status/834146806594433025" target="_blank">
 	![img](images/sindrome.png)
-</p>
+</a>
+
+note: David Heinemeier Creador framework de desarrollo web Ruby on Rails of Ruby on Rails. En 2005, fue reconocido por Google y O'Reilly con el premio Hacker of the Year por la creación de Ruby on Rails.
