@@ -36,6 +36,6 @@
 
 
 #### Ofertas mas demandadas en el 2017
-<p class="img-size">
+<a class="img-size" href="https://openwebinars.net/blog/los-5-perfiles-IT-mas-demandados-para-2017/" target="_blank">
 	![img](images/demandas2017.png)
-</p>
+</a>
