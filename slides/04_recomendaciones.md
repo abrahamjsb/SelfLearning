@@ -23,10 +23,9 @@
 
 
 #### Stack Overflow Developer Survey
-<p class="">
+<a class="" href="https://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system" target="_blank">
 	![img](images/operatingsystem.png)
-</p>
-[fuente](https://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system)
+</a>
 
 
 #### Averiguar el porqué de cada tecnología
