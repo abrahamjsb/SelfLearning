@@ -30,9 +30,9 @@
 
 
 #### LinkedIn Tops skills
-<p class="img-size">
+<a class="img-size" href="https://learning.linkedin.com/week-of-learning/top-skills" target="_blank">
 	![img](images/linkedints.png)
-</p>
+</a>
 
 
 #### Ofertas mas demandadas en el 2017
