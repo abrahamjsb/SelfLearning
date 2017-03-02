@@ -33,6 +33,7 @@
 #### Averiguar el porqué de cada tecnología
    * Mantener la curiosidad
 
+
 #### Defíne bien qué hacer y luego cómo hacerlo
 * Arquitectura e ingeniería de software
 
